@@ -1,0 +1,8 @@
+gymnasium
+networkx
+numpy
+pettingzoo
+sumo-rl
+sumolib
+torch
+traci
